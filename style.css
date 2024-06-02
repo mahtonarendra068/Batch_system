@@ -74,7 +74,7 @@ nav {
     nav {
         padding-left: 10px;
         padding-right: 10px;
-        height: 32vh;
+        height: 6vh;
     }
 
     .nav-content {
@@ -331,7 +331,7 @@ nav {
 @media(max-width:670px) {
 
     nav {
-        height: 32vh;
+        height: 6vh;
     }
 
     .sec-nd-part {
